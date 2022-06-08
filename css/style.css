@@ -103,7 +103,7 @@
     border: 2px solid coral;
     border-radius: 8px;
     background: none;
-    color: white;
+    color: coral;
     cursor: pointer;
 }
 
@@ -166,6 +166,10 @@
     font-size: 19px;
     border: 2px solid coral;
     border-radius: 6px;
+}
+.footer{
+    text-align: center;
+    color: white;
 }
 
 /* .paras{
